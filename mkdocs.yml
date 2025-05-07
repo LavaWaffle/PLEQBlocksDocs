@@ -1,4 +1,7 @@
 site_name: PL Order Blocks Docs
-site_url: https://LavaWaffle.github.io/PLOrderBlocksDocs/
-# theme:
-  # name: material
+site_url: https://LavaWaffle.github.io/PLEQBlocksDocs/
+theme:
+  name: material
+
+plugins:
+  - mkdocs-video
