@@ -14,7 +14,7 @@ Copy the element code into your prairielearn elements directory. The code can be
 
 ## Example usage
 Within your PrairieLearn Question, add the following code:
-```html
+```html title="Quadratic Formula Example"
 <pl-eq-blocks
   answers-name="pyth-formula"
   solution="A^2 + B^2 = C^2"
